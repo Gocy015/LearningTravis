@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					C3567E0C1CE4278E007F1216 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = H4V332SS59;
 					};
 					C3567E201CE4278F007F1216 = {
 						CreatedOnToolsVersion = 7.3;
@@ -329,6 +330,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = LearningTravis/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gocy.LearningTravis;
@@ -340,6 +342,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = LearningTravis/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gocy.LearningTravis;
@@ -390,6 +393,7 @@
 				C3567E2C1CE4278F007F1216 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C3567E2D1CE4278F007F1216 /* Build configuration list for PBXNativeTarget "LearningTravisTests" */ = {
 			isa = XCConfigurationList;
@@ -398,6 +402,7 @@
 				C3567E2F1CE4278F007F1216 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
