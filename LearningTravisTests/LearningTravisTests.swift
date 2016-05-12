@@ -27,7 +27,7 @@ class LearningTravisTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         
         XCTAssertEqual(1+1, vc.add(1, b: 1))
-        NSLog("Tests passed")
+        NSLog("Tests passed hehehe")
     }
     
     func testPerformanceExample() {
